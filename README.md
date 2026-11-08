@@ -47,8 +47,11 @@ I work where physical chemistry, molecular modelling and machine learning meet. 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kammmran&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammmran&layout=compact&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kammmran&theme=github" alt="GitHub stats">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kammmran&theme=github" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kammmran&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
