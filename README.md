@@ -47,36 +47,7 @@ I work where physical chemistry, molecular modelling and machine learning meet. 
 ### 📊 GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kammmran&theme=github_dark">
-    <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kammmran&theme=github" alt="Contribution overview">
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kammmran&theme=github_dark">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kammmran&theme=github" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kammmran&theme=github_dark">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kammmran&theme=github" alt="Most committed languages">
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kammmran&theme=github_dark">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kammmran&theme=github" alt="Repositories per language">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kammmran&theme=github_dark&utcOffset=1">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kammmran&theme=github&utcOffset=1" alt="Most productive hours">
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kammmran&card_width=700&card_height=200&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=2E343B&stroke=2E343B&ring=40C463&fire=40C463&currStreakLabel=40C463&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E">
-    <img width="97%" src="https://streak-stats.demolab.com/?user=kammmran&card_width=700&card_height=200&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=E4E2E2&stroke=E4E2E2&ring=40C463&fire=40C463&currStreakLabel=40C463&currStreakNum=24292E&sideNums=24292E&sideLabels=586069&dates=586069" alt="Contribution streak">
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=kammmran&hide_border=true&background=00000000&ring=40C463&fire=40C463&currStreakLabel=40C463&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E40" alt="Contribution streak">
 </p>
 
 ---
